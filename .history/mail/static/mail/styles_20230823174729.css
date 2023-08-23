@@ -1,0 +1,21 @@
+textarea {
+    min-height: 400px;
+}
+
+.email-box {
+border: 1px solid #ccc;
+padding: 10px;
+margin-bottom: 10px;
+cursor: pointer;
+}
+
+.unread {
+background-color: #f0f0f0;
+}
+
+.email-details {
+border: 1px solid #ccc;
+padding: 20px;
+margin-top: 20px;
+background-color: #f9f9f9;
+}
